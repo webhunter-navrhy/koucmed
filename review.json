@@ -1,0 +1,17 @@
+{
+  "znamka": 8,
+  "slabiny": [
+    "O mne (PC buňka 5, mobil buňka 5): portrét má teď stejný kruh i stejný výřez jako hero, takže stránka ukazuje dvakrát totéž. Oprava: v O mne použít užší výřez (tvář a ramena) a dát fotku do tvaru lístku z loga místo kruhu, jak chtělo minulé kolo. Podpis a pořadí na mobilu (fotka nad citátem) nechat.",
+    "Služby a ponuka (PC buňka 4): popisy v barevných kartách Emočný koučing, Etikoterapia a Vzťahová mediácia mají na 1440 px asi 11–12 px. Vedle velkých nadpisů Fraunces jsou skoro nečitelné. Oprava: popisy zvětšit na 15–16 px s řádkováním 1,55 a odkaz „Viac na koucmed.sk“ držet u spodního okraje karty, aby všechny tři karty měly odkaz ve stejné výšce.",
+    "Ozvite sa (mobil buňky 7–8): mezi kontakty (e-mail, Facebook) a formulářem je velká prázdná mezera a telefon 0944 581 222 není jako tlačítko. Oprava: mezeru zmenšit na 32–40 px, telefon a e-mail udělat jako dva velké dotykové řádky (tel:, mailto:) nad formulářem a za nadpis dát zelený a žlutý lístek z hero, aby sekce navázala na motiv."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Všechny tři výtky z minulého kola jsou opravené: vedle citátu v O mne je fotka, „Ak potrebujete“ teď vede přes celou šířku do velkého „ste tu správne.“ se žlutým a zeleným tvarem a karty článků mají vlastní obrázky z koucmed.sk.",
+    "Brand je zachovaný: logo KOUČMED vlevo v hlavičce, paleta ze zelené a žluté loga (#a4d538, #fad06d) na teplém krémovém podkladu, odrážky ve tvaru lístků z loga a skutečný portrét Jany Mladé.",
+    "Obsah je převzatý z původního webu (hero věta, tři potřeby, text O mne, služby, témata, články s daty) a nic není vymyšlené. QA nenašla přetečení na žádné šířce a přenese se jen 0,3–0,4 MB.",
+    "Typografie Fraunces + Nunito Sans s funkční diakritikou, světlý a vlídný vzhled, který k emočnímu koučingu sedí, a žádné AI šablonové vzory (marquee, číslování, tmavé pruhy se statistikami)."
+  ],
+  "verdikt": "Opravené kolo splnilo všechny minulé výtky a závažná vada tam není. Web je vlídný, drží se brandu a dá se poslat. Zbývá dodělat různý výřez portrétu v O mne, čitelnější popisy služeb a těsnější kontakt na mobilu.",
+  "_hash": "eb6aeba68be9cea70055f40766ed10936d1a7415"
+}

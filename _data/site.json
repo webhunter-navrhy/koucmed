@@ -1,0 +1,57 @@
+{
+  "slug": "koucmed",
+  "nazev": "KOUČMED",
+  "url": "https://webhunter-navrhy.github.io/koucmed/",
+  "base": "/koucmed/",
+  "lang": "sk",
+  "popis": "Emočný koučing, etikoterapia a vzťahová mediácia. Mgr. Jana Mladá sprevádza klientov pri emóciách, vzťahoch a výchove už osem rokov.",
+  "navrh": true,
+  "domena": "koucmed.sk",
+  "og_image": "Koucmed_fotka-do-Omne.jpg",
+  "logo": "logo.png",
+  "theme_color": "#fffaf0",
+  "typ": "ProfessionalService",
+  "ico": "",
+  "kontakt": {
+    "email": "jana.mlada@koucmed.sk",
+    "telefon": "0944 581 222",
+    "adresa": {
+      "ulice": "",
+      "psc": "",
+      "mesto": "",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [
+    "https://www.facebook.com/koucmed/"
+  ],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Správa z webu KOUČMED"
+  },
+  "nav": [
+    {
+      "text": "Ak potrebujete",
+      "href": "#potreby"
+    },
+    {
+      "text": "Služby",
+      "href": "#sluzby"
+    },
+    {
+      "text": "O mne",
+      "href": "#o-mne"
+    },
+    {
+      "text": "Články",
+      "href": "#clanky"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

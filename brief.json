@@ -1,0 +1,242 @@
+{
+ "slug": "koucmed",
+ "zdroj_url": "https://koucmed.sk",
+ "firma": "KOUČMED",
+ "obor": [
+  "zdraví a péče",
+  "právo a poradenství"
+ ],
+ "ico": "",
+ "ares": null,
+ "kontakty": {
+  "emaily": [
+   "jana.mlada@koucmed.sk"
+  ],
+  "telefony": [
+   "0944 581 222"
+  ],
+  "adresa": "",
+  "socialni_site": [
+   "https://www.facebook.com/koucmed/"
+  ]
+ },
+ "logo": {
+  "soubor": "podklady/logo.png",
+  "zdroj": "https://www.koucmed.sk/wordpress/wp-content/uploads/2020/12/Logo2.png",
+  "rozmery": [
+   164,
+   184
+  ]
+ },
+ "barvy": {
+  "css_promenne": {
+   "e-global-color-astglobalcolor0": "#0170B9",
+   "e-global-color-astglobalcolor1": "#3a3a3a",
+   "e-global-color-astglobalcolor2": "#3a3a3a",
+   "e-global-color-astglobalcolor3": "#4B4F58",
+   "e-global-color-astglobalcolor4": "#F5F5F5",
+   "e-global-color-astglobalcolor5": "#FFFFFF",
+   "e-global-color-astglobalcolor6": "#E5E5E5",
+   "e-global-color-astglobalcolor7": "#424242",
+   "e-global-color-astglobalcolor8": "#000000"
+  },
+  "z_css": [
+   "#0274be",
+   "#a4d538",
+   "#c09854",
+   "#b34e4d",
+   "#5897fb",
+   "#32325d"
+  ],
+  "z_loga": [
+   "#fad06d",
+   "#a4d538",
+   "#b39b3b"
+  ],
+  "theme_color": null,
+  "doporucene": [
+   "#fad06d",
+   "#a4d538",
+   "#0170b9",
+   "#0274be"
+  ]
+ },
+ "fotky": [
+  {
+   "soubor": "podklady/foto/foto-01.png",
+   "url": "https://www.koucmed.sk/wordpress/wp-content/uploads/2026/10/Dizajn-bez-nazvu5.png",
+   "sirka": 1200,
+   "vyska": 630,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-02.png",
+   "url": "https://www.koucmed.sk/wordpress/wp-content/uploads/2025/09/to-je-tvoj-problem-ze-si-smutna.png",
+   "sirka": 940,
+   "vyska": 788,
+   "alt": ""
+  },
+  {
+   "soubor": "podklady/foto/foto-03.png",
+   "url": "https://www.koucmed.sk/wordpress/wp-content/uploads/2025/06/ukrivdene-dieta.png",
+   "sirka": 1920,
+   "vyska": 1080,
+   "alt": ""
+  }
+ ],
+ "fakta": [
+  {
+   "typ": "h2",
+   "text": "Vstúpte do sveta, v ktorom lepšie porozumiete svojmu životu, svojim vzťahom a svojim emóciám.",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Ak potrebujete",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "ste tu správne.",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Najnovšie články",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h2",
+   "text": "Najnovšie články",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Naozaj by nás partneri nemali robiť šťastnými?",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Za reakciou To je tvoj problém sa skrývajú pocity viny, navonok sa prejavia hnevom",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "O tom, ako v deťoch môžu vznikať pocity krivdy",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Naozaj by nás partneri nemali robiť šťastnými?",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "Za reakciou To je tvoj problém sa skrývajú pocity viny, navonok sa prejavia hnevom",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "h3",
+   "text": "O tom, ako v deťoch môžu vznikať pocity krivdy",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Služby Emočný koučing Etikoterapia Vzťahová mediácia",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ponuka a ceny Individuálne terapie Párové terapie, vzťahové poradenstvo Poradenstvo pre rodičov Prednášky, workshopy a kurzy Hnev Emócie detí Hranice vo výchove Motivácia Strach a stres Spájajúca komunikácia",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Prednášky, workshopy a kurzy Hnev Emócie detí Hranice vo výchove Motivácia Strach a stres Spájajúca komunikácia",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Služby Emočný koučing Etikoterapia Vzťahová mediácia",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Ponuka a ceny Individuálne terapie Párové terapie, vzťahové poradenstvo Poradenstvo pre rodičov Prednášky, workshopy a kurzy Hnev Emócie detí Hranice vo výchove Motivácia Strach a stres Spájajúca komunikácia",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Prednášky, workshopy a kurzy Hnev Emócie detí Hranice vo výchove Motivácia Strach a stres Spájajúca komunikácia",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "zvládať svoje emócie alebo emócie svojich blízkych,",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "podporiť pri riešení problémov vo vzťahoch a vo výchove,",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "znovuobjaviť svoju prirodzenú sebahodnotu a sebavedomie,",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Všetko toto sú témy, ktoré so svojimi klientami riešim už osem rokov. Odovzdávam im skúsenosti, ktoré som nazbierala vo svojom živote a sprevádzam ich na začiatku ich novej cesty smerom k životu, kde prevláda pokoj, láska, rešpekt, úcta a spokojnosť.",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "O troch U a jednom S – a o tom, prečo vzájomná závislosť nie je slabosť.   Už u mňa bola nejedna mladá dievčinka, ktorá sa cítila zmätene z toho, že jej je vo vzťahu s priateľom veľmi dobre. Veď všade sa vraj píše a hovorí, že nás naši partneri nemajú robiť šťastnými. Že naše",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "„To je tvoj problém, keď ťa to hnevá!“ „To je tvoj problém, že si z toho smutná!“ Dostali ste už niekedy od partnera takúto reakciu na váš Ja výrok, v ktorom ste svoje emócie uviedli ako dôsledok nejakého jeho správania? Áno, Ja výroky – teda hovorenie o sebe, ako sa cítime, keď partner niečo urobil a čo by sme",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Štvorročná Emka zabávala v obývačke svoju ročnú sestričku, ktorá sedela na zemi. Rozosmievala ju tým, že poskakovala a pobehovala. Až zhodila kvetinovú stenu. Našťastie sa nič vážne nestalo, len boli všetci vyľakaní. Aj rodičia. Ale otec svoj strach premenil na hnev a začal na Emku kričať. Že mala dávať pozor a že si o nej nemyslel, že je taká nešikovná.",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "O troch U a jednom S – a o tom, prečo vzájomná závislosť nie je slabosť.   Už u mňa bola nejedna mladá dievčinka, ktorá sa cítila zmätene z toho, že jej je vo vzťahu s priateľom veľmi dobre. Veď všade sa vraj píše a",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "„To je tvoj problém, keď ťa to hnevá!“ „To je tvoj problém, že si z toho smutná!“ Dostali ste už niekedy od partnera takúto reakciu na váš Ja výrok, v ktorom ste svoje emócie uviedli ako dôsledok nejakého jeho správania? Áno, Ja výroky – teda hovorenie o sebe,",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "odstavec",
+   "text": "Štvorročná Emka zabávala v obývačke svoju ročnú sestričku, ktorá sedela na zemi. Rozosmievala ju tým, že poskakovala a pobehovala. Až zhodila kvetinovú stenu. Našťastie sa nič vážne nestalo, len boli všetci vyľakaní. Aj rodičia. Ale otec svoj strach premenil na hnev a začal na Emku kričať. Že mala",
+   "zdroj": "https://www.koucmed.sk/"
+  },
+  {
+   "typ": "telefon",
+   "text": "0944 581 222",
+   "zdroj": "https://www.koucmed.sk/ (kontakt)"
+  },
+  {
+   "typ": "foto",
+   "text": "portrét Jany Mladé",
+   "zdroj": "https://www.koucmed.sk/wordpress/wp-content/uploads/2021/03/Koucmed_fotka-do-Omne.jpg"
+  }
+ ],
+ "chybi": [
+  "telefon (do webu, ne do mailů)",
+  "IČO",
+  "fotky firmy/provozu/produktů (nalezeno 3, potřeba aspoň 6)",
+  "adresa / provozovna",
+  "potvrzení služeb a ceníku (nic nevymýšlet)"
+ ],
+ "popis_webu": ""
+}
